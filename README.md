@@ -5,7 +5,7 @@ in your browser.
 
 ## Installation
 
-    gh extension install mloberg/gh-view
+    gh extension install ivorisoutdoors/gh-view
 
 ## Usage
 
